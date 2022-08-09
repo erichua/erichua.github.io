@@ -28,6 +28,6 @@ Vancouver
 
 ## Open sources
 ### localstorage with expiry and encrypt options
-- https://github.com/erichua/LocalStorageWithExpiry
+- [LocalStorageWithExpiry](https://github.com/erichua/LocalStorageWithExpiry)
 
 ## Hobbies & Interests
