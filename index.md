@@ -1,4 +1,7 @@
-# Eric Hua -- full stack developer
+# Eric Hua 
+ - Full Stack Developer
+ - Architector
+ - Azure Services
 
 Vancouver 
 
