@@ -17,10 +17,17 @@ Vancouver
 
 ## Edueication Background
  Master
+
+## Skill
+
 ## Certification
+
+## Current Working on
 
 ## Work History
 
 ## Open sources
 ### localstorage with expiry and encrypt options
 - https://github.com/erichua/LocalStorageWithExpiry
+
+## Hobbies & Interests
